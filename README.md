@@ -1,2 +1,2 @@
-# atx_shield_v0
-A PCB to use with ATX Power Supply.
+### atx_shield_v0
+A PCB to use with ATX Power Supply. It is suppose to be a big big shield...
